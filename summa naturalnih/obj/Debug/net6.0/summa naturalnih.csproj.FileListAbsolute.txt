@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\bin\Debug\net6.0\summa naturalnih.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\bin\Debug\net6.0\summa naturalnih.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\bin\Debug\net6.0\summa naturalnih.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\bin\Debug\net6.0\summa naturalnih.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\bin\Debug\net6.0\summa naturalnih.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\obj\Debug\net6.0\summa naturalnih.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\obj\Debug\net6.0\summa naturalnih.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\obj\Debug\net6.0\summa naturalnih.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\obj\Debug\net6.0\summa naturalnih.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\obj\Debug\net6.0\summa naturalnih.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\obj\Debug\net6.0\summa naturalnih.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\obj\Debug\net6.0\refint\summa naturalnih.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\obj\Debug\net6.0\summa naturalnih.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\obj\Debug\net6.0\summa naturalnih.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-9\summa naturalnih\obj\Debug\net6.0\ref\summa naturalnih.dll
